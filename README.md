@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Team 15 - Create
 
-You can use the [editor on GitHub](https://github.com/DouweRoedema/CreateTeam15/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welkom op de website van Team 15!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In dit project hebben wij de opdracht gekregen om een ProgressiveWebApp te maken. Deze app wordt gebruikt voor het webplatform **Planning 4 Kinderopvang**. 
 
-### Markdown
+In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen de kinderopvang.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Projectleider**: Ron Pelt
 
-```markdown
-Syntax highlighted code block
+**Scrum master**: Jordy Quak
 
-# Header 1
-## Header 2
-### Header 3
+**Git master**:	Matthijs Blankevoort
 
-- Bulleted
-- List
+**Website beheerder**: Douwe Roedema
 
-1. Numbered
-2. List
+**Development Team**: Matthijs Blankevoort, Ron Pelt, Jordy Quak, Kah Kit Zheng en Douwe Roedema
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Het [Samenwerkingscontract (Google Drive)](https://docs.google.com/document/d/1__VLd9AhH17L4bp6Sdu5KXnPGXcZk5kt45kxXD46oR4/edit?usp=sharing)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+De [Timesheet (Google Drive)](https://docs.google.com/spreadsheets/d/191J4Zimuaty18K_ajmU7jx0oZvAzTtzpVsm8xf33qTM/edit?usp=sharing)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DouweRoedema/CreateTeam15/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
