@@ -17,7 +17,9 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 **Development Team**: Matthijs Blankevoort, Ron Pelt, Jordy Quak, Kah Kit Zheng en Douwe Roedema
 
 
-Het [Samenwerkingscontract (Google Drive)](https://docs.google.com/document/d/1__VLd9AhH17L4bp6Sdu5KXnPGXcZk5kt45kxXD46oR4/edit#heading=h.ensbk19i69gr)
+[Het Samenwerkingscontract (Google Drive)](https://docs.google.com/document/d/1__VLd9AhH17L4bp6Sdu5KXnPGXcZk5kt45kxXD46oR4/edit#heading=h.ensbk19i69gr)
 
-De [Timesheet (Google Drive)](https://docs.google.com/spreadsheets/d/1vJno3roKT8fv0SnajtjaM24_T59x1Z_Jqvx4qGpVXTU/edit#gid=1493701587)
+[De Timesheet (Google Drive)](https://docs.google.com/spreadsheets/d/1vJno3roKT8fv0SnajtjaM24_T59x1Z_Jqvx4qGpVXTU/edit#gid=1493701587)
+
+[Project plan (Google Drive)](https://docs.google.com/document/d/19iSf3T_Zub4e5NcSlzdRvCTiOzWQ3igaAMqkYEAAyIw/edit#)
 
