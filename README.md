@@ -36,3 +36,7 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 [Douwe Roedema (Google Drive)](https://docs.google.com/document/d/12Zuw7MQUFd2uJY2mIhgdZDCj-eNRvHK9SMB64WveM84/edit)
 
 [Kah Kit Zheng (Google Drive)](https://docs.google.com/document/d/1f4BHgPE8MFJE0-ExeNjAUniSvzbFt4etBTqWxDbpKP8/edit#heading=h.98ww7mm1wsh1)
+
+## Retrospectives
+
+[Sprint 1 (Google Drive)](https://docs.google.com/document/d/1Xus2g4OP5FrxFXc3U8vVawZlNRcBHZNNDR6Nvyc6rgc/edit#)
