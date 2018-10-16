@@ -40,6 +40,7 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 ## Retrospectives
 
 [Sprint 1 (Google Drive)](https://docs.google.com/document/d/1Xus2g4OP5FrxFXc3U8vVawZlNRcBHZNNDR6Nvyc6rgc/edit#)
+[Sprint 2 (Google Drive)](https://docs.google.com/document/d/1hFCd2EehrSlvjM39r-1kiwcbIAzC7_scPwNuRstPXTY/edit)
 
 ## Feedback Teamleden
 [Feedback 11-10-2018 (Google Drive)](https://drive.google.com/drive/folders/1cAXwuKe7c5QoDChdvtRAd4BF3gKjQFXr)
