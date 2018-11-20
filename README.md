@@ -24,6 +24,8 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 
 [Project plan (Google Drive)](https://docs.google.com/document/d/19iSf3T_Zub4e5NcSlzdRvCTiOzWQ3igaAMqkYEAAyIw/edit#)
 
+[Technische Documentatie](https://docs.google.com/document/d/1P9OBeV4TYwGjtQMkw9A9S6Pa9NdQ4t1bTrw8jsiy8KU/edit)
+
 ## Individual Learning Reports
 
 [Ron Pelt (Google Drive)](https://docs.google.com/document/d/10-bpeS1m3r_NyRSQgPv21iqhvePHEoL92wNdSf8zNPY/edit#heading=h.8gxjxqu5g8vr)
@@ -43,6 +45,8 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 [Sprint 2 (Google Drive)](https://docs.google.com/document/d/1hFCd2EehrSlvjM39r-1kiwcbIAzC7_scPwNuRstPXTY/edit)
 
 [Sprint 3 (Google Drive)](https://docs.google.com/document/d/1rjE0UJT7MQjVTqCDLcHFJYWNF1f87kmMdubFHfMDfIk/edit)
+
+[Sprint 5 (Google Drive)](https://docs.google.com/document/d/11hAsqJ8iIBQ0ELA-aB5kINlPECaZX4OBmCCw7MQBNyA/edit)
 
 ## Urenregistratie
 
