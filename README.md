@@ -46,7 +46,7 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 
 [Sprint 3 (Google Drive)](https://docs.google.com/document/d/1rjE0UJT7MQjVTqCDLcHFJYWNF1f87kmMdubFHfMDfIk/edit)
 
-[Sprint 5 (Google Drive)](https://docs.google.com/document/d/11hAsqJ8iIBQ0ELA-aB5kINlPECaZX4OBmCCw7MQBNyA/edit)
+[Sprint 4 (Google Drive)](https://docs.google.com/document/d/11hAsqJ8iIBQ0ELA-aB5kINlPECaZX4OBmCCw7MQBNyA/edit)
 
 ## Urenregistratie
 
