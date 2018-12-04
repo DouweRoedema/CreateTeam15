@@ -64,12 +64,13 @@ Aangegeven in de feedback formulieren, hadden veel mensen moeite om door de app 
 
 ## Code Reviews
 - Code review 1 - (20-11-2018)
-  - Lange get methode opdelen in 3 verschillende methoden
-  - I.p.v. 'with' te doen, zelf query schrijven (minder loops)
+  - Lange get methode opdelen in 3 verschillende methoden.
+  - I.p.v. 'with' te doen, zelf query schrijven (minder loops).
   - Met een map alle datums kunnen returnen (datum per order), daarop weer op filteren. Eerst een query schrijven, rechtstreeks relatie ophalen. 
-dbtable queries uitvoeren
-  - 200 kaartjes pmaand moet het aankunnen
-  - Front end: planning in een aparte functie
-  - Aparte methode voor user login bij tests
-Alle order van de kinderen ophalen met een where in, orderitems wheren bij de order ids. (key by)
-  - JWTAuth refresh token gebruiken
+  - dbtable queries uitvoeren.
+  - 200 kaartjes per maand moet het aankunnen.
+  - Front end: planning in een aparte functie.
+  - Aparte methode voor user login bij tests.
+  - Alle order van de kinderen ophalen met een where in, orderitems wheren bij de order ids. (key by)
+  - JWTAuth refresh token gebruiken.
+  - Joins gebruiken in queries.
