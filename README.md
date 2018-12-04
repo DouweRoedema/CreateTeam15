@@ -74,3 +74,13 @@ Aangegeven in de feedback formulieren, hadden veel mensen moeite om door de app 
   - Alle order van de kinderen ophalen met een where in, orderitems wheren bij de order ids. (key by)
   - JWTAuth refresh token gebruiken.
   - Joins gebruiken in queries.
+  
+- Code review 2 - (04-12-2018)
+  - Lazy loading in planning (pagination is een optie).
+  - Moment maanden gebruiken in planning-container, momenteen hardcoded array string van maanden.
+  - Locale globaal definiëren, nu is het per component.
+  - Inline style in planning-container weghalen.
+  - Resource maken voor customerwithfinancialdata.
+  - Type en payload meegeven met refresh.
+  - Enums overnemen in migrations.
+  - Magic number van axios status code veranderen.
