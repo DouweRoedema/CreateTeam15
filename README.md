@@ -59,5 +59,17 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 [Poster (Google Drive)](https://drive.google.com/drive/folders/1TqAjBtKWUc8oP-S_Surg1wFdOs4olG3M)
 
 ## Feedback Formulieren MidTerm
-[MidTerm Formulieren 13-11-2018 (Google Drive)](https://drive.google.com/drive/folders/1TqAjBtKWUc8oP-S_Surg1wFdOs4olG3M)
+[MidTerm Formulieren 13-11-2018 (Google Drive)](https://drive.google.com/drive/folders/1TqAjBtKWUc8oP-S_Surg1wFdOs4olG3M) <br />
 Aangegeven in de feedback formulieren, hadden veel mensen moeite om door de app te navigeren. Daarom is er besloten om bepaalde schermen de verbeteren, door o.a. minder gebruik te maken van sliders.
+
+## Code Reviews
+- Code review 1 - (20-11-2018)
+  - Lange get methode opdelen in 3 verschillende methoden
+  - I.p.v. 'with' te doen, zelf query schrijven (minder loops)
+  - Met een map alle datums kunnen returnen (datum per order), daarop weer op filteren. Eerst een query schrijven, rechtstreeks relatie ophalen. 
+dbtable queries uitvoeren
+  - 200 kaartjes pmaand moet het aankunnen
+  - Front end: planning in een aparte functie
+  - Aparte methode voor user login bij tests
+Alle order van de kinderen ophalen met een where in, orderitems wheren bij de order ids. (key by)
+  - JWTAuth refresh token gebruiken
