@@ -49,7 +49,6 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 [Sprint 4 (Google Drive)](https://docs.google.com/document/d/11hAsqJ8iIBQ0ELA-aB5kINlPECaZX4OBmCCw7MQBNyA/edit)
 
 ## Urenregistratie
-
 [Urenregistratie (Google Drive)](https://docs.google.com/spreadsheets/d/1vJno3roKT8fv0SnajtjaM24_T59x1Z_Jqvx4qGpVXTU/edit#gid=1493701587)
 
 ## Feedback Teamleden
@@ -63,24 +62,4 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 Aangegeven in de feedback formulieren, hadden veel mensen moeite om door de app te navigeren. Daarom is er besloten om bepaalde schermen de verbeteren, door o.a. minder gebruik te maken van sliders.
 
 ## Code Reviews
-- Code review 1 - (20-11-2018)
-  - Lange get methode opdelen in 3 verschillende methoden.
-  - I.p.v. 'with' te doen, zelf query schrijven (minder loops).
-  - Met een map alle datums kunnen returnen (datum per order), daarop weer op filteren. Eerst een query schrijven, rechtstreeks relatie ophalen. 
-  - dbtable queries uitvoeren.
-  - 200 kaartjes per maand moet het aankunnen.
-  - Front end: planning in een aparte functie.
-  - Aparte methode voor user login bij tests.
-  - Alle order van de kinderen ophalen met een where in, orderitems wheren bij de order ids. (key by)
-  - JWTAuth refresh token gebruiken.
-  - Joins gebruiken in queries.
-  
-- Code review 2 - (04-12-2018)
-  - Lazy loading in planning (pagination is een optie).
-  - Moment maanden gebruiken in planning-container, momenteen hardcoded array string van maanden.
-  - Locale globaal definiëren, nu is het per component.
-  - Inline style in planning-container weghalen.
-  - Resource maken voor customerwithfinancialdata.
-  - Type en payload meegeven met refresh.
-  - Enums overnemen in migrations.
-  - Magic number van axios status code veranderen.
+[Code Reviews(Google Drive)](https://docs.google.com/document/d/1mqrglnkR_baPEUVhltTRQ8qDgCTeYhTAT8kfoTn-dkc/edit)
