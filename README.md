@@ -57,9 +57,9 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 ## Poster
 [Poster (Google Drive)](https://drive.google.com/drive/folders/1TqAjBtKWUc8oP-S_Surg1wFdOs4olG3M)
 
+## Code Reviews
+[Code Reviews(Google Drive)](https://docs.google.com/document/d/1mqrglnkR_baPEUVhltTRQ8qDgCTeYhTAT8kfoTn-dkc/edit)
+
 ## Feedback Formulieren MidTerm
 [MidTerm Formulieren 13-11-2018 (Google Drive)](https://drive.google.com/drive/folders/1TqAjBtKWUc8oP-S_Surg1wFdOs4olG3M) <br />
 Aangegeven in de feedback formulieren, hadden veel mensen moeite om door de app te navigeren. Daarom is er besloten om bepaalde schermen de verbeteren, door o.a. minder gebruik te maken van sliders.
-
-## Code Reviews
-[Code Reviews(Google Drive)](https://docs.google.com/document/d/1mqrglnkR_baPEUVhltTRQ8qDgCTeYhTAT8kfoTn-dkc/edit)
