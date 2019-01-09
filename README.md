@@ -57,6 +57,7 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 
 ## Feedback Teamleden
 [Feedback 11-10-2018 (Google Drive)](https://drive.google.com/drive/folders/1cAXwuKe7c5QoDChdvtRAd4BF3gKjQFXr)
+
 [Feedback 19-12-2018 (Google Drive)](https://drive.google.com/drive/folders/1E4yu7JuYcpQL-53WTsoOR9tajHhenplw)
 
 ## Poster
