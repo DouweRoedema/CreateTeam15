@@ -26,6 +26,8 @@ In deze app kunnen de ouders gegevens bekijken van hunzelf en de kinderen binnen
 
 [Technische Documentatie (Google Drive)](https://docs.google.com/document/d/1P9OBeV4TYwGjtQMkw9A9S6Pa9NdQ4t1bTrw8jsiy8KU/edit)
 - [Api Documentatie (Google Drive)](https://drive.google.com/drive/folders/1yEbtRtFHbVGbYXsUM2IQ_bQowRRSdhju)
+<br />
+Dit bestand moet gedownload worden en openen via de web browser.
 
 ## Individual Learning Reports
 
