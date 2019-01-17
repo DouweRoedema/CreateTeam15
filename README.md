@@ -54,6 +54,9 @@ Dit bestand moet gedownload worden en kan geopend worden in de web browser.
 
 [Sprint 6 (Google Drive)](https://docs.google.com/document/d/1b1bvVL8CETrUNoUkDmHHJGvK1KRzl9XXEhI70CurStc/edit)
 
+[Sprint 7 (Google Drive)](https://docs.google.com/document/d/10lYa6azfKxAL-yVKhjReov5INPqUvUEyYqre_vhjoc8/edit)
+
+
 ## Urenregistratie
 [Urenregistratie (Google Drive)](https://docs.google.com/spreadsheets/d/1vJno3roKT8fv0SnajtjaM24_T59x1Z_Jqvx4qGpVXTU/edit#gid=1493701587)
 
